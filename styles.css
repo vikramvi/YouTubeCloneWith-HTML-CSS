@@ -136,4 +136,21 @@ body {
   overflow: hidden;
 }
 
+.category {
+  margin-right: 1rem;
+  word-wrap: none;
+  white-space: nowrap;
+  border: 1px solid #ccc;
+  border-radius: 900px;
+  background-color: #e7e7e7;
+  padding: 0.5rem 1rem;
+  font-size: inherit;
+  cursor: pointer;
+  transition: background-color 150ms;
+}
+
+.category:hover {
+  background-color: #ddd;
+}
+
 /* categories section styling END */
