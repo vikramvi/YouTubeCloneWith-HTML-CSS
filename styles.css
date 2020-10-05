@@ -53,4 +53,12 @@ body {
   min-height: 150px;
   background-color: #aaa;
 }
+
+.channel-icon {
+  margin-right: 0.75rem;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  background-color: #aaa;
+}
 /* single video styling END */
